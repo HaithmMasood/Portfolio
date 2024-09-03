@@ -2,6 +2,8 @@
 
 Welcome to the GitHub repository for my personal portfolio website. This site is designed to showcase my skills and projects as a software developer, featuring responsive design and interactive elements.
 
+## Portfolio Link
+https://jocular-kleicha-45baaf.netlify.app/
 
 ## Features
 
@@ -41,3 +43,7 @@ Contributions are what make the open-source community such an amazing place to l
 Haithm Masood - MasoodHaithm@gmail.com
 
 Project Link: https://github.com/HaithmMasood/Portfolio
+
+
+## Credit
+Watch this great vedio: https://youtu.be/ldwlOzRvYOU?si=z69ynoXXUP2pVO5j
