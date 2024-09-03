@@ -101,3 +101,18 @@
       text-align: justify;
     }
   }
+
+  @media screen and (max-width: 1200px) {
+    .section-container {
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media screen and (max-width: 1200px) {
+    .project-img {
+        width: 100%;  /* Adjust as necessary */
+        height: auto;
+    }
+}
+
